@@ -1,16 +1,13 @@
-# galaxy-theme README
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/sankeyangshu/sankeyangshu/master/image/logo-bai.png" width="80"/>
+  <br>
+  Galaxy Theme for VS Code(Dark)
+</h1>
 
-## Working with Markdown
+## Thanks
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+This project is based on [One Monokai Theme](https://github.com/azemoh/vscode-one-monokai).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## License
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+[MIT License](https://github.com/sankeyangshu/vscode-theme-galaxy/blob/master/LICENSE)
