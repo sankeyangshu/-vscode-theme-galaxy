@@ -1,7 +1,7 @@
 {
-  "name": "galaxy-gruvbox-theme",
-  "displayName": "Galaxy Gruvbox Theme",
-  "description": "Galaxy Gruvbox Theme for VS Code",
+  "name": "galaxy-monokai-theme",
+  "displayName": "Galaxy Monokai Theme",
+  "description": "Galaxy Monokai Theme for VS Code",
   "version": "0.0.1",
   "publisher": "sankeyangshu",
   "engines": {
