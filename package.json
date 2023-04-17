@@ -1,12 +1,15 @@
 {
-  "name": "galaxy-theme",
-  "displayName": "Galaxy Theme",
-  "description": "Galaxy Theme for VS Code",
+  "name": "galaxy-gruvbox-theme",
+  "displayName": "Galaxy Gruvbox Theme",
+  "description": "Galaxy Gruvbox Theme for VS Code",
   "version": "0.0.1",
-  "author": "sankeyangshu",
+  "publisher": "sankeyangshu",
   "engines": {
     "vscode": "^1.77.0"
   },
+  "files": [
+    "themes"
+  ],
   "keywords": [
     "theme",
     "dark"
