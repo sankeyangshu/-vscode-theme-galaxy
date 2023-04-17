@@ -1,0 +1,27 @@
+{
+  "name": "galaxy-theme",
+  "displayName": "Galaxy Theme",
+  "description": "Galaxy Theme for VS Code",
+  "version": "0.0.1",
+  "author": "sankeyangshu",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "keywords": [
+    "theme",
+    "dark"
+  ],
+  "license": "MIT",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Galaxy Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Galaxy Theme-color-theme.json"
+      }
+    ]
+  }
+}
