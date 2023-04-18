@@ -26,12 +26,12 @@
 
 <img src="/images/tsx.png" width='100%' />
 
-<p align="center">
+<div align="center">
 
 <sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://github.com/JetBrains/JetBrainsMono">JetBrainsMono</a><br>
-&nbsp;File Icons | <a href="https://github.com/PKief/vscode-material-icon-theme">Material Icon Theme</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;File Icons | <a href="https://github.com/PKief/vscode-material-icon-theme">Material Icon Theme</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></sub>
 
-</p>
+</div>
 
 ## Thanks
 
