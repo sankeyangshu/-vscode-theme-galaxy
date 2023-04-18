@@ -179,7 +179,7 @@
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#E69875"
       }
     },
     {
@@ -287,7 +287,7 @@
       "name": "Tag Name",
       "scope": ["entity.name.tag", "entity.name.tag.class.js"],
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#E69875"
       }
     },
     {
@@ -578,6 +578,12 @@
       "scope": "keyword.control.at-rule, punctuation.decorator, keyword.control.directive, keyword.preprocessor, punctuation.definition.preprocessor, punctuation.definition.directive, keyword.other.import, keyword.other.package, keyword.other.using, keyword.package, keyword.import, keyword.map",
       "settings": {
         "foreground": "#83C092"
+      }
+    },
+    {
+      "scope": "keyword.control.import, keyword.control.export",
+      "settings": {
+        "foreground": "#D699B6"
       }
     },
     {
