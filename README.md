@@ -22,10 +22,6 @@
 
 <img src="/images/typescript.png" width='100%' />
 
-#### TSX
-
-<img src="/images/tsx.png" width='100%' />
-
 <div align="center">
 
 <sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://github.com/JetBrains/JetBrainsMono">JetBrainsMono</a><br>
