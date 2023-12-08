@@ -104,7 +104,7 @@
     "list.highlightForeground": "#ffffff",
     "list.hoverBackground": "#343841",
     "list.hoverForeground": "#eef0f9",
-    "list.inactiveSelectionBackground": "#17191e",
+    "list.inactiveSelectionBackground": "#44475a75",
     "list.inactiveSelectionForeground": "#eef0f9",
     "listFilterWidget.background": "#2d4860",
     "listFilterWidget.noMatchesOutline": "#dc3657",
